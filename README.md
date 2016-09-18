@@ -1,2 +1,2 @@
 # GraficacionFunciones
-App Web que ayuda a graficar funciones matematicas
+Web App que ayuda a graficar funciones matematicas
